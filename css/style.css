@@ -1,0 +1,38 @@
+.hdr1{
+    background-color:rgb(20, 80, 163);
+}
+.navbarc{
+  background-color: rgb(51, 124, 207);
+}
+
+.img1{
+    width:700px;
+    height: 500px;
+}
+ 
+.img2{
+    width:700px;
+    height: 500px;
+}
+.img3{
+    width:600px;
+    height: 500px;
+}
+
+.prple{
+    background-color:rgb(78, 79, 235);
+}
+
+::-webkit-scrollbar{
+    width: 20px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: rgb(51, 124, 207);
+  
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
